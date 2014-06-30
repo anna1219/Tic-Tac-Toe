@@ -1,3 +1,14 @@
 .idea/
+bin
+target*
+classes
+out
+tmp
+gen
+.DS_Store
+.idea/
 *.iml
-target/
+*.ipr
+.classpath
+.project
+*.log
