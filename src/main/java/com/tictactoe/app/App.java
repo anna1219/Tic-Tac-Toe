@@ -64,7 +64,7 @@ public class App {
                     board.draw(game.findNextStep(board), boxValue[(player - 1)]);
                     numOfMove++;
                     try {
-                        Thread.sleep(800l);
+                        Thread.sleep(500l);
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
